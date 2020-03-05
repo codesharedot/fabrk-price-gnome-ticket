@@ -1,5 +1,8 @@
-# fabrk price gnome ticket 
+# fabrk gnome price ticker
 
-Gnome 3 desktop ticker for fabrk price with Python and argos. Rename to fabrk.1r.60s.py and put in ~/.config/argos
+Get fabrk price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/fabrk-price-gnome-ticket/](https://codesharedot.github.io/fabrk-price-gnome-ticket/)
 
-https://pythonbasics.org
+fabrk price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to fabrk.1r60s.py and put in ~/.config/argos
